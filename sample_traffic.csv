@@ -1,0 +1,5 @@
+Source IP,Protocol,Destination Port,Connection Count
+192.168.1.10,TCP,443,12
+192.168.1.15,UDP,53,8
+192.168.1.20,TCP,22,150
+192.168.1.25,TCP,80,10
