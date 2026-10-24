@@ -1,4 +1,4 @@
-NetGuardAI
+qNetGuardAI
 
 AI-Driven Network Traffic Analysis and Intrusion Detection System
 
@@ -88,6 +88,9 @@ The current version expects a connection-count field to apply its basic detectio
 11. Ethical Use
 
 NetGuardAI is intended for defensive cybersecurity learning and analysis of authorized or sample traffic data. Testing should be performed only with systems and datasets that the user is authorized to use.
+
+12. Limitations
+The results depend on the available traffic fields and configured thresholds. Legitimate activity may be flagged, and attacks that do not match the rules may be missed. Testing with simulated records does not established real-world detection accuracy. 
 
 12. Project Status
 
